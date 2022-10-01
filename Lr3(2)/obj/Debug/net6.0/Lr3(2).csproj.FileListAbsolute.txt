@@ -1,0 +1,15 @@
+F:\Vs\Source\Lr3\Lr3(2)\bin\Debug\net6.0\Lr3(2).exe
+F:\Vs\Source\Lr3\Lr3(2)\bin\Debug\net6.0\Lr3(2).deps.json
+F:\Vs\Source\Lr3\Lr3(2)\bin\Debug\net6.0\Lr3(2).runtimeconfig.json
+F:\Vs\Source\Lr3\Lr3(2)\bin\Debug\net6.0\Lr3(2).dll
+F:\Vs\Source\Lr3\Lr3(2)\bin\Debug\net6.0\Lr3(2).pdb
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\Lr3(2).csproj.AssemblyReference.cache
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\Lr3(2).GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\Lr3(2).AssemblyInfoInputs.cache
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\Lr3(2).AssemblyInfo.cs
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\Lr3(2).csproj.CoreCompileInputs.cache
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\Lr3(2).dll
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\refint\Lr3(2).dll
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\Lr3(2).pdb
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\Lr3(2).genruntimeconfig.cache
+F:\Vs\Source\Lr3\Lr3(2)\obj\Debug\net6.0\ref\Lr3(2).dll
